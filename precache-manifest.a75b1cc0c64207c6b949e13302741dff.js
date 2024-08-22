@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ab76377cacb3f97f1a2",
-    "url": "/css/app.7fa0c453.css"
+    "revision": "f772bb4ab6082fb02d76",
+    "url": "/css/app.33f5a7ad.css"
   },
   {
     "revision": "ae7bffcde58e32114044",
@@ -20,6 +20,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/SF-Pro-Rounded-Medium.137ee8cd.otf"
   },
   {
+    "revision": "09a5e819c63d1c0bc56a6d46874d371c",
+    "url": "/img/Imager.09a5e819.png"
+  },
+  {
     "revision": "0915169b792cdfbf66d6b01c9caf7769",
     "url": "/img/backstar.0915169b.png"
   },
@@ -28,16 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/bgimg.f3e130be.png"
   },
   {
-    "revision": "8ef4b28c6a58eb9d8d2635e8f7ceabad",
-    "url": "/img/cardimages.8ef4b28c.png"
+    "revision": "ebd89efec686d1dc67c18a99c48dbc80",
+    "url": "/img/close.ebd89efe.jpg"
   },
   {
     "revision": "7d261171cb2dd5986cb2a7d7a94ecb78",
     "url": "/img/ellipse6.7d261171.png"
   },
   {
-    "revision": "8c0edb920b7f7e7de119607fea1ef952",
-    "url": "/img/newsimg.8c0edb92.png"
+    "revision": "d14447b8823ea27fad2cc65aa6da7639",
+    "url": "/img/leftnews.d14447b8.png"
+  },
+  {
+    "revision": "fe7230bafb91d43b4afee5d35c4b10a4",
+    "url": "/img/rigtnews.fe7230ba.png"
   },
   {
     "revision": "5383722d45566c5157f02917bbd5b2c6",
@@ -64,16 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/videoframe.9624db21.png"
   },
   {
-    "revision": "76a894714a1d0f6c82d47c53821f3f8b",
+    "revision": "33685ecebac6e9fc92e5b4ac6ca8bc09",
     "url": "/index.html"
   },
   {
-    "revision": "791c7c259c7309dc727d",
-    "url": "/js/about.a4b66ea6.js"
+    "revision": "f79783da898753faf546",
+    "url": "/js/about.42e7f348.js"
   },
   {
-    "revision": "5ab76377cacb3f97f1a2",
-    "url": "/js/app.96ab0f36.js"
+    "revision": "f772bb4ab6082fb02d76",
+    "url": "/js/app.992e77d6.js"
   },
   {
     "revision": "ae7bffcde58e32114044",
@@ -84,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   }
 ]);
