@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.636955c3027b85abe6632377def219f5.js"
+  "/precache-manifest.8c452633df781778a670f90fbb1f053c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kasbmaktab.uz"});
